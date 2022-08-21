@@ -1,0 +1,16 @@
+
+.blog
+{
+    border: 20px solid green;
+    border-radius: 20px;
+    margin-bottom: 20px;
+    margin-top: 30px;
+    padding: 40px 50px 45px 200px;
+    width: 30%;
+    display: inline-block;
+
+}
+h3{
+    text-align: left;
+}
+
